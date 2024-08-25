@@ -1,0 +1,33 @@
+node_modules
+/node_modules
+./node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+package-lock.json
+yarn.lock
+
+# cypress
+cypress/plugins/
+cypress/support/
+cypress/screenshots/
+cypress/videos/
+
+# tauri
+src-tauri/target/node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+package-lock.json
+yarn.lock
+
+# cypress
+cypress/plugins/
+cypress/support/
+cypress/screenshots/
+cypress/videos/
+
+# tauri
+src-tauri/target/
